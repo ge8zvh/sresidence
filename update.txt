@@ -1,1 +1,4 @@
-2025-06-17|https://ge8zvh.github.io/sresidence/#cta
+{
+    "version": "2.0.0",
+    "download_url": "https://ge8zvh.github.io/sresidence/#cta"
+}
